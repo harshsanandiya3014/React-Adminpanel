@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "iphone1245",
+      "Brand": "apple2323232"
+    },
+    {
+      "id": 1,
+      "name": "iphone12sam",
+      "Brand": "apple456"
+    },
+    {
+      "name": "rahul1111",
+      "brand": "demo",
+      "id": 4
+    },
+    {
+      "name": "fsa",
+      "brand": "asad",
+      "id": 5
+    },
+    {
+      "name": "Iphone 14 Pro Max",
+      "brand": "Apple",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "name": "sony4",
+      "category": "Television"
+    },
+    {
+      "id": 3,
+      "name": "samsung",
+      "category": "Washingmachine"
+    },
+    {
+      "id": 4,
+      "name": "asus666",
+      "category": "Laptop"
+    }
+  ],
+  "Reviews": [
+    {
+      "id": 1,
+      "name": "yash",
+      "surname": "rathod"
+    },
+    {
+      "id": 2,
+      "name": "shivpalasasas",
+      "surname": "chavda"
+    },
+    {
+      "id": 3,
+      "name": "harshassa",
+      "surname": "patel"
+    },
+    {
+      "id": 4,
+      "name": "ravi",
+      "surname": "chaurasiya"
+    },
+    {
+      "name": "sasa",
+      "surname": "sasa",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "yashasa",
+      "surname": "rathod"
+    },
+    {
+      "id": 2,
+      "name": "shivpal",
+      "surname": "chavda"
+    },
+    {
+      "id": 3,
+      "name": "harsh",
+      "surname": "patel"
+    },
+    {
+      "name": "sasa",
+      "surname": "sasa",
+      "id": 4
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ]
+}
